@@ -7,7 +7,7 @@
 
 1. **Backend :**
 
-# Spins up a server on port 1234
+Spins up a server on port 1234
 
 ```bash
 cd y-websocket-server
@@ -17,9 +17,7 @@ npm run start
 
 2. Frontend
 
-# Serves the app on port 3000.
-
-## The main page connects to an editor that syncs with the backend on port 1234
+Serves the app on port 3000. The main page connects to an editor that syncs with the backend on port 1234
 
 ```bash
 cd philoxenia-web
