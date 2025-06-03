@@ -1,1 +1,0 @@
-PhiloXenia application README file.
